@@ -1,7 +1,7 @@
 ### Hi frens 👋
 
 - 🔭 I’m currently working on [lowcarbrezepte.de](https://www.lowcarbrezepte.de/)
-- 🎉 I'm happy to have released a small local website for [Vissel Freitag](https://www.visselfreitag.de/)
+- 🎉 I'm happy to have released a small local website for [Vissel Freitag](https://www.vissel-freitag.de/)
 - 🌱 I’m currently enjoying working with [Astro](https://astro.build/)
 - 👯 I’m looking to collaborate on [directory websites](https://www.restaurants-neumuenster.de/) and SEO challenges
 - 🤔 I’m looking for help with my taxes
