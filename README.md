@@ -1,8 +1,4 @@
-<div>
-  <div style="height: 4px; background-color: #000000;"></div>
-  <div style="height: 4px; background-color: #DD0000;"></div>
-  <div style="height: 4px; background-color: #FFCC00;"></div>
-</div>
+<img src="german-flag.svg" width="100%" alt="German flag" />
 
 ### Hej Hej! 👋
 
