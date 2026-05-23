@@ -13,5 +13,5 @@
 
 ---
 
-- 🐦 Reach out at [x.com/acabelt](https://x.com/acabelt)
-- 📸 Reach out at [instagram/acabelt](https://x.com/acabelt)
+- 🐦 Reach out at [x/acabelt](https://x.com/acabelt)
+- 📸 Reach out at [instagram/acabelt](https://instagram.com/acabelt)
